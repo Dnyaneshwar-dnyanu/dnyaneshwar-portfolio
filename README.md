@@ -1,10 +1,17 @@
 # Dnyanu Portfolio
 
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/787d8fb4-616a-4016-900f-e304e48b4a76"
+    alt="Portfolio Preview"
+    width="700"
+    height="300"
+  />
+</p>
 
 A professional, modern portfolio website showcasing full-stack academic projects, software engineering skills, and coding achievements. Designed for recruiters and technical managers at tech companies and startups.
 
-[Live Demo](https://dnyaneshwar-portfolio.vercel.app/) • [View Resume](https://dnyaneshwar-portfolio.vercel.app/resume.pdf) • [GitHub](https://github.com/Dnyaneshwar-dnyanu) • [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-bhajantri-bb30832bb/)
+🚀 **Live Demo:** https://dnyaneshwar-portfolio.vercel.app/
 
 ---
 
